@@ -1,7 +1,5 @@
 # Swiggy Customer Support Chatbot
 
-![Swiggy Support Chatbot](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/attachments/gen-images/public/swiggy-logo-orange-4Wh6p8Eg0ajd8VPQhGBgKx7OO0su5q.png)
-
 ## Overview
 
 This is a prototype of an AI-powered customer support chatbot for Swiggy food delivery service. The chatbot can handle various customer complaints and generate interactive UI components to help resolve issues efficiently.
